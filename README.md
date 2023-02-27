@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there [👋](https://zhangbopd.github.io/)
+
+- 🌱 I’m currently learning C/C++/CUDA/Python/Haskell...
+- 🤔 I’m looking for help with AI compiler
+- ⚡ Fun fact: taking photographs
+- 📫 How to reach me: 1299246947@qq.com
 
 <!--
 **zhangbopd/zhangbopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
